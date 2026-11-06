@@ -1,4 +1,4 @@
-FROM ollama/ollama:0.5.6
+FROM ollama/ollama:0.40.15
 
 ENV PYTHONUNBUFFERED=1
 
